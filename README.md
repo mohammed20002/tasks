@@ -12,12 +12,10 @@ https://www.tinkercad.com/things/a9kqRXo42Js-stepper-motor/editel?sharecode=yydE
 design circuit in tinkerca
 https://www.tinkercad.com/things/h8HLPNOzpnT-brushless-controller-/editel?sharecode=uyO1SeOKIHn2oPXhVlNdZDK4_XObYNXP75VqxHP5fmk
 
-#week 3
 # tasks ON_OFF_Circuit
 design circuit in tinkerca
 https://www.tinkercad.com/things/12Nm7Pv8gQm-onoffcircuit/editel?sharecode=CZ3p2hUVJ_X7YIlT_l6UDrXC5eJ9iQhI56z3JIW2sCA
 
-#week 4
 # tasks Digtal_Circuit
 design circuit in tinkerca
 
