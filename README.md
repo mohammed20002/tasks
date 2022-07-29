@@ -18,7 +18,8 @@ https://www.tinkercad.com/things/12Nm7Pv8gQm-onoffcircuit/editel?sharecode=CZ3p2
 
 # tasks Digtal_Circuit
 design circuit in tinkerca
-
+https://www.tinkercad.com/things/jAlcPsayfo7-digtalcircuit/editel?sharecode=lgJ9HbrcusNGUmw9knBh0CtYcAfwdDkNgMWTwWj-PSM
 
 # tasks Analog_Circuit
 design circuit in tinkerca
+https://www.tinkercad.com/things/fEEoOpe1qeG-analogcircuit/editel?sharecode=aCtlqHgdUC7tLWS65_E90zWEpKia5Om5GmnzPb8IURM
