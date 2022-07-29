@@ -16,3 +16,9 @@ https://www.tinkercad.com/things/h8HLPNOzpnT-brushless-controller-/editel?sharec
 design circuit in tinkerca
 https://www.tinkercad.com/things/12Nm7Pv8gQm-onoffcircuit/editel?sharecode=CZ3p2hUVJ_X7YIlT_l6UDrXC5eJ9iQhI56z3JIW2sCA
 
+# tasks Digtal_Circuit
+design circuit in tinkerca
+
+
+# tasks Analog_Circuit
+design circuit in tinkerca
